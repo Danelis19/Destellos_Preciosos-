@@ -1,0 +1,213 @@
+# Translation of Themes - Blog FSE in Spanish (Spain)
+# This file is distributed under the same license as the Themes - Blog FSE package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-04-11 15:23:28+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: es\n"
+"Project-Id-Version: Themes - Blog FSE\n"
+
+#. Theme Name of the theme
+#: style.css
+#, gp-priority: high
+msgid "Blog FSE"
+msgstr "Blog FSE"
+
+#: inc/dashboard.php:221
+msgid "Learn more"
+msgstr "Aprender más"
+
+#: inc/dashboard.php:83 inc/dashboard.php:139
+msgid "Install"
+msgstr "Instalar"
+
+#: inc/dashboard.php:83 inc/dashboard.php:139 inc/dashboard.php:175
+msgid "Activated"
+msgstr "Activado"
+
+#. translators: %s: Theme name
+#: inc/dashboard.php:87
+msgid "Get started with %s"
+msgstr "Empieza con %s"
+
+#: inc/dashboard.php:83 inc/dashboard.php:139 inc/dashboard.php:186
+msgid "Activate"
+msgstr "Activar"
+
+#: inc/dashboard.php:201
+msgid "Install now"
+msgstr "Instalar ahora"
+
+#. translators: %s: Theme name
+#: inc/dashboard.php:73 inc/dashboard.php:130
+msgid "Thank you for installing %s."
+msgstr "Gracias por instalar %s."
+
+#. translators: %s: Plugin name string
+#: inc/dashboard.php:79 inc/dashboard.php:136
+msgid "To take full advantage of all the features this theme has to offer, please install and activate the %s plugin."
+msgstr "Si quieres aprovechar todas las ventajas de las funcionalidades que este tema ofrece, por favor instala y activa el plugin %s."
+
+#: styles/yellow.json
+msgctxt "Style variation name"
+msgid "Yellow"
+msgstr "Amarillo"
+
+#: styles/pink.json
+msgctxt "Style variation name"
+msgid "Pink"
+msgstr "Rosa"
+
+#: styles/green.json
+msgctxt "Style variation name"
+msgid "Green"
+msgstr "Verde"
+
+#: styles/dark.json
+msgctxt "Style variation name"
+msgid "Dark"
+msgstr "Oscuro"
+
+#: styles/blue.json
+msgctxt "Style variation name"
+msgid "Blue"
+msgstr "Azul"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Comments"
+msgstr "Comentarios"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer"
+msgstr "Pie de página"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header"
+msgstr "Cabecera"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "404"
+msgstr "404"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Blank"
+msgstr "En blanco"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "6"
+msgstr "6"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "5"
+msgstr "5"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "4"
+msgstr "4"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "3"
+msgstr "3"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "2"
+msgstr "2"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "1"
+msgstr "1"
+
+#: styles/blue.json styles/dark.json styles/green.json styles/orange.json
+#: styles/pink.json styles/yellow.json theme.json
+msgctxt "Gradient name"
+msgid "Base to Secondary to Base"
+msgstr "Base a secundario a base"
+
+#: styles/blue.json styles/dark.json styles/green.json styles/orange.json
+#: styles/pink.json styles/yellow.json theme.json
+msgctxt "Gradient name"
+msgid "Secondary to Base"
+msgstr "Secundario a base"
+
+#: styles/blue.json styles/dark.json styles/green.json styles/orange.json
+#: styles/pink.json styles/yellow.json theme.json
+msgctxt "Color name"
+msgid "Tertiary"
+msgstr "Terciario"
+
+#: styles/blue.json styles/dark.json styles/green.json styles/orange.json
+#: styles/pink.json styles/yellow.json theme.json
+msgctxt "Color name"
+msgid "Secondary"
+msgstr "Secundario"
+
+#: styles/blue.json styles/dark.json styles/green.json styles/orange.json
+#: styles/pink.json styles/yellow.json theme.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr "Principal"
+
+#: styles/blue.json styles/dark.json styles/green.json styles/orange.json
+#: styles/pink.json styles/yellow.json theme.json
+msgctxt "Color name"
+msgid "Contrast"
+msgstr "Contraste"
+
+#: styles/blue.json styles/dark.json styles/green.json styles/orange.json
+#: styles/pink.json styles/yellow.json theme.json
+msgctxt "Color name"
+msgid "Base"
+msgstr "Base"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Page without sidebar"
+msgstr "Página sin barra lateral"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Single without sidebar"
+msgstr "Individual sin barra lateral"
+
+#: styles/orange.json
+msgctxt "Style variation name"
+msgid "Orange"
+msgstr "Naranja"
+
+#: patterns/header.php
+msgctxt "Pattern title"
+msgid "header"
+msgstr "cabecera"
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://blocks-wp.com/"
+msgstr "https://blocks-wp.com/"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "BlocksWP"
+msgstr "BlocksWP"
+
+#. Theme URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://wp-fse.com/blog-fse/"
+msgstr "https://wp-fse.com/blog-fse/"
